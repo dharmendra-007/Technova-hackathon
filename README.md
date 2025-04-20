@@ -38,7 +38,7 @@ TechNova is the annual branch fest of the Department of Computer Science and Eng
 
 ### Submission Deadline
 
-All submissions must be made before **19th April 2025 (1:00 PM)**. Late submissions will not be considered for evaluation.
+All submissions must be made before **20th April 2025 (6:00 PM)**.
 
 ## Rules and Guidelines
 
