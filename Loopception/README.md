@@ -47,13 +47,4 @@ Cleanwarts is a web application that gamifies campus cleaning activities by crea
 │   └── app.js              # Main application script
 └── assets/                 # Images and other assets
 ```
-
-## Credits
-
-This project was created as part of a coding challenge for TechNova Hackathon.
-
-## License
-
-This project is available for use under the MIT License.
-
  
