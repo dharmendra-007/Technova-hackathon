@@ -11,7 +11,6 @@ Cleanwarts is a web application that gamifies campus cleaning activities by crea
 - Users can request cleaning tasks and upload before/after photos as proof
 - Admin verification of completed tasks
 - House and individual leaderboards
-- Mobile-responsive design
 - Magical UI with Hogwarts theme
 
 ## Technologies Used
